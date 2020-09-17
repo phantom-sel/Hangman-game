@@ -1,0 +1,22 @@
+# it's a just word list 
+
+word_list = [
+    "Access", 		
+        "Analog",
+        "Delete",
+        "Gopher",
+        "Hacker",
+        "Header",
+        "Import",
+        "Inkjet",
+        "Itunes",
+        "Jovial",
+        "Keypad",
+        "Laptop",
+        "Logoff",
+        "Logout",
+        "Memory",
+        "Newbie",
+        "Nibble",
+        "Office",
+]
